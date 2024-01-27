@@ -41,8 +41,8 @@ class price{
 
     }
     
-const person = new price("Paari","chennai","blr",1000)
+const person1 = new price("Paari","chennai","blr",1000)
 console.log(person)
 
-person.trip()
-person.getprice()
+person1.trip()
+person1.getprice()
